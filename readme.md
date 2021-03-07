@@ -6,7 +6,8 @@
  - updated h5/xdmf files links
  - updated pymicro tutorial link
  - make the `read_h5` work
- - update grants in zenodo
+ - update description in zenodo
+ - include link to this 
 
 If you use this volume, please cite us: 
 
