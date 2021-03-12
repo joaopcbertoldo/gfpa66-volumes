@@ -8,6 +8,7 @@
  - make the `read_h5` work
  - update description in zenodo
  - include link to this 
+ - todo show how to do it with fiji --> add it to zenodo as well
 
 If you use this volume, please cite us: 
 
