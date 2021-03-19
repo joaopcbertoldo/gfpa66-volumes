@@ -51,7 +51,14 @@ We show how to open data in three ways:
 | crack.zip                   | crack.raw                    | Data of the non-annotated volume containing a crack inside.                                                                         |
 |                             | crack.prediction.raw         | Segmentation generated with the best 2D model on the crack volume.                                                                   |
 
+Each `.raw` file has a corresponding `.raw.info` file, containing metadata (data type and volume dimensions).
+
+The `.h5` contains all the volumes mentioned above. It also has a `.xdmf` metadata file.
+
+You will find all these files here: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4601560.svg)](https://doi.org/10.5281/zenodo.4601560)
+
 ## `.raw` with **python**
+
 **There is no special dependency to use it this way (apart from basic stuff: numpy and matplotlib if you want to plot). **
 51
 
